@@ -1,4 +1,4 @@
-A quick, hacked together, version for the (Cheap Yelllow Display)[https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display]
+A quick, hacked together, version for the [Cheap Yelllow Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display)
 
 Requires a speaker connected to the speaker port.
 
